@@ -1,1 +1,1 @@
-Print("HEllo this is CC program")
+print("HEllo this is CC program")
